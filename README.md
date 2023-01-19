@@ -2,6 +2,7 @@
 
 ****Customer:
 - Sign in with login and password.
+- view personal information.
 - Update personal details.
 - Change password.
 - View balance.
