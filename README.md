@@ -1,6 +1,6 @@
 # system Description
 
-system is a stop watch with a pause, resume and reset buttons. Project was developed using Eclipse IDE, AVR GNU cross compiler
+A stop watch with a pause, resume and reset buttons. Project was developed using Eclipse IDE and AVR cross compiler
 
 
 # Circuit Design
