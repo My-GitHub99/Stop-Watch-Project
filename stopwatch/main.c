@@ -2,7 +2,7 @@
  * main.c
  *
  *  Created on: Mar 7, 2023
- *      Author: user
+ *      Author: Ahmed Bahaa
  */
 
 #include "stopwatch.h"
