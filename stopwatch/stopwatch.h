@@ -2,7 +2,7 @@
  * stopwatch.h
  *
  *  Created on: Mar 7, 2023
- *      Author: user
+ *      Author: Ahmed Bahaa
  */
 
 #ifndef STOPWATCH_H_
